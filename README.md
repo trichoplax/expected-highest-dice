@@ -1,6 +1,8 @@
 # Expected highest dice
 Roll $N$ dice simultaneously. Your score is the highest individual dice result. What is the expected value of your score?
 
+Used to provide test cases for a code golf challenge [Expected value of highest dice rolled](https://codegolf.codidact.com/posts/288885).
+
 ## Formula
 This can be calculated as:
 
