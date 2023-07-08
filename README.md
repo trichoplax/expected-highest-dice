@@ -8,6 +8,11 @@ This can be calculated as:
 
 $$\frac{1}{6^N}\sum_{i=1}^6 i(i^N-(i-1)^N)$$
 
+### Simplification
+Thanks to an [answer to the code golf challenge](https://codegolf.codidact.com/posts/288885/288914#answer-288914) this formula can be simplified to:
+
+$$7 - \sum_{i=1}^6 \left(\frac i 6\right)^N$$
+
 ## Results
 | N | Expected highest dice |
 | - | --------------------- |
